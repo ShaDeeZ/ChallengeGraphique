@@ -6,7 +6,7 @@ Cet exercice à été fait dans le cadre de ma formation en web dev à Becode. I
 
 Comme le travail n'est pas fini, l'utilisation n'est pas optimale. Pour accéder au résultat, veuillez cliquer sur une des "DateX" au dessus du premier tableau pour voir le premier graphique. Le graphique en AJAX se lance 5 seconde après le chargement de la page et se trouve tout en dessous. 
 
-## Technologie utilisée 
+## Technologies utilisées 
 
 * HTML
 * CSS
